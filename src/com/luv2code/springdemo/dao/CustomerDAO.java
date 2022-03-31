@@ -14,3 +14,4 @@ public interface CustomerDAO {
 
     void deleteCustomer(int theId);        // mtd for deleting
 }
+
