@@ -1,0 +1,6 @@
+Lecture- 320
+
+FAQ: How to use customer-tracker project with All Java Configuration and Maven
+How to use customer-tracker project with All Java Configuration (no xml) and Maven
+
+Here is the source code: spring-hibernate-customer-tracker-with-maven-all-java-config.zip
